@@ -7,10 +7,11 @@
 - Apache Kafka
 - Docker
 - Kubernetes 
-- Project Managament with JIRA (Use Kanban)
+- Project Management with JIRA (Use Kanban)
 - ORM use Hibernate 
 - Oracle/PostgreSQL
 - CDC with Debezium
 - CI/CD Pipeline
 - Jenkins / GitHub Action Workflows
 - Deployment K8S with ArgoCD
+- Linux
